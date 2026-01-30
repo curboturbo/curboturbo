@@ -1,4 +1,3 @@
-# <p align="center">Привет, я maevec! 🚀</p>
 <p align="center"><b>Backend Developer | Problem Solver | Fullstack Specialist</b></p>
 
 <p align="center">
