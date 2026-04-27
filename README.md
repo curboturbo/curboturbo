@@ -26,10 +26,12 @@
     <td align="left" width="150"><b>Frontend (Extra)</b></td>
     <td><img src="https://skillicons.dev/icons?i=react,js,ts,tailwind" alt="Frontend" /></td>
   </tr>
-  <tr>
-    <td align="left" width="150"><b>DevOps & Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,git,linux,postman" alt="Tools" /></td>
-  </tr>
+<tr>
+  <td align="left" width="150"><b>DevOps & Tools</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=docker,git,linux,postman,prometheus,grafana" alt="Tools" />
+  </td>
+</tr>
 </table>
 
 ---
