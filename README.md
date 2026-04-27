@@ -1,4 +1,4 @@
-<p align="center"><b>Backend Developer | Problem Solver | Fullstack Specialist</b></p>
+<p align="center"><b>Backend Developer (Golang / Python) </b></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=curboturbo&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 Обо мне
-Я — **Backend-разработчик**, специализирующийся на создании надежных и масштабируемых серверных решений. Мой фундамент — глубокое понимание алгоритмов и структур данных. Я умею работать как на низком уровне (**C/C++**), так и создавать современные высокоуровневые API на **Go** и **Python**.
+Я **backend-разработчик**. Основной стек — **Go**, также уверенно пишу на **Python** и **C/C++**. Хорошо знаю алгоритмы и структуры данных: решаю задачи на LeetCode, учусь на ПМИ МАИ. Могу работать как с низкоуровневыми вещами, так и с высокоуровневыми API. Сейчас сосредоточен на Go, но при необходимости легко переключаюсь между языками.
 
 ---
 
@@ -15,7 +15,7 @@
 
 <table align="center">
   <tr>
-    <td align="left" width="150"><b>Backend & Core</b></td>
+    <td align="left" width="150"><b>Backend</b></td>
     <td><img src="https://skillicons.dev/icons?i=c,cpp,go,py,fastapi,django" alt="Backend" /></td>
   </tr>
   <tr>
@@ -61,11 +61,11 @@
 ---
 
 ### 📂 Ключевые компетенции
-* **High Performance:** Оптимизация алгоритмов и работа с памятью (**C**, **C++**, **Go**).
-* **Backend Mastery:** Проектирование сложных систем на **FastAPI** и **Django**.
-* **Database Design:** Работа с реляционными БД (**Postgres**, **MySQL**) и кэшированием (**Redis**).
-* **Fullstack Capability:** Разработка интерфейсов на **React** для бэкенд-сервисов.
-* **Problem Solving:** 130+ задач на LeetCode и ежедневная практика.
+* **Infrastructure** Работаю с Docker, Docker Compose, CI/CD, Prometheus, Linux/Bash. С Kubernetes и Kafka знаком в теории.
+* **Backend** основной язык — Go. Пишу на нём API, работал с gRPC, JWT-авторизацией, goroutines и каналами. Также есть опыт с Python (FastAPI, Django), но сейчас всё новое делаю на Go.
+* **Database** Работа с реляционными БД (**Postgres**, **MySQL**) и кэшированием (**Redis**).
+* **Frontend** (базово): могу написать интерфейс на React, если нужно подкрепить бэкенд фронтом.
+* **Algo section** Стараюсь ежедневно прокачивать свою алго-секцию и решать leetcode.
 
 ---
 
